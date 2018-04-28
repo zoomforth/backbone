@@ -1628,6 +1628,12 @@ media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
 
+micro-lodash-for-backbone@zoomforth/micro-lodash-for-backbone#master:
+  version "0.1.0"
+  resolved "https://codeload.github.com/zoomforth/micro-lodash-for-backbone/tar.gz/acbce0a4a71191766999833e01dd036e5d63b257"
+  dependencies:
+    lodash "^4.15.0"
+
 micromatch@^2.1.5:
   version "2.3.11"
   resolved "https://registry.yarnpkg.com/micromatch/-/micromatch-2.3.11.tgz#86677c97d1720b363431d04d0d15293bd38c1565"
