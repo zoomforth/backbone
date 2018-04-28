@@ -14,7 +14,7 @@
   "author": "Jeremy Ashkenas",
   "dependencies": {
     "lodash": "^4.15.0",
-    "micro-lodash-for-backbone": "zoomforth/micro-lodash-for-backbone#adf6cc1"
+    "micro-lodash-for-backbone": "zoomforth/micro-lodash-for-backbone#99c9a8d"
   },
   "devDependencies": {
     "coffee-script": "1.7.1",
