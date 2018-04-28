@@ -13,7 +13,8 @@
   ],
   "author": "Jeremy Ashkenas",
   "dependencies": {
-    "lodash": "^4.15.0"
+    "lodash": "^4.15.0",
+    "lodash-for-backbone": "1.0.0"
   },
   "devDependencies": {
     "coffee-script": "1.7.1",
